@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Back-end Development**
  
-- 🔭 I’m currently working on **Smart Traffic Management System**
+- 🔭 I’m currently working on **Build a personal AI Assistant**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
