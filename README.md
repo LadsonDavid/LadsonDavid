@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LadsonDavid" alt="Ladson" /></a> </p>
 
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **Back-end Development and GEN AI**
  
 - 🔭 I’m currently working on **Build a personal AI Assistant**
 
