@@ -20,30 +20,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Default theme with custom colors
-      - name: Generate Snake SVG (Light)
+      - name: Generate Snake Animation (Light Theme, No Progress Bar)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg?color_snake=#FF5733&color_dots=#FFE600,#FF9900,#FF3300,#FF0000,#CC0000
+          outputs: dist/github-snake.svg?hide_progress=true&color_snake=#00ffcc&color_dots=#e4e4e4,#c0c0c0,#9e9e9e,#6c6c6c,#3a3a3a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Dark theme
-      - name: Generate Snake SVG (Dark)
+      - name: Generate Snake Animation (Dark Theme, No Progress Bar)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ffcc
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Ocean-themed animated GIF
-      - name: Generate Ocean Snake GIF
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/ocean.gif?color_snake=orange&color_dots=#00c2ff,#0099ff,#0077cc,#0055aa,#003377
+          outputs: dist/github-snake-dark.svg?palette=github-dark&hide_progress=true&color_snake=#00ffd0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -53,4 +42,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update awesome snake animation [skip ci]"
+          commit_message: "Update clean snake animation [skip ci]"
