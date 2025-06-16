@@ -43,4 +43,4 @@
 <img src="https://leetcard.jacoblin.cool/Ladson?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats">
 
 
-![snake gif](https://github.com/LadsonDavid/LadsonDavid/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LadsonDavid/LadsonDavid/blob/output/github-snake.svg)
