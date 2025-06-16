@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladsondavid&show_icons=true&locale=en" alt="ladsondavid" /></p>
 
-<img src="https://leetcard.jacoblin.cool/Ladson?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats">
+
 
 
 ![snake gif](https://github.com/LadsonDavid/LadsonDavid/blob/output/github-snake.svg)
