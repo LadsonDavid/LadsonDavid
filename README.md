@@ -13,11 +13,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LadsonDavid" alt="Ladson" /></a> </p>
 
 
-- 🌱 I’m currently learning **Back-end Development and GEN AI**
+- 🌱 I’m currently learning **GenAI & LLM Fine-Tuning**   
  
-- 🔭 I’m currently working on **Build a personal AI Assistant**
+- 🔭 I’m currently working on **Shaping Ideas into Impact**
 
-- 👯 I’m looking to collaborate on **AI/ML**
+- 👯 I’m looking to collaborate on **Quantum Computing**
 
 - 💬 Ask me about **Tech**
 
