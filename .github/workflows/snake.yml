@@ -18,13 +18,13 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation (Light Theme, No Progress Bar)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg?hide_progress=true&color_snake=#00ffcc&color_dots=#e4e4e4,#c0c0c0,#9e9e9e,#6c6c6c,#3a3a3a
+          outputs: dist/github-snake.svg?hide_progress=true&color_snake=#00ffcc&color_dots=#cdd5df,#9be9a8,#40c463,#30a14e,#216e39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,6 +33,22 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake-dark.svg?palette=github-dark&hide_progress=true&color_snake=#00ffd0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Malveon Snake Animation (Light Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Malveon-Workspace
+          outputs: dist/github-snake-malveon.svg?hide_progress=true&color_snake=#00ffcc&color_dots=#cdd5df,#9be9a8,#40c463,#30a14e,#216e39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Malveon Snake Animation (Dark Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Malveon-Workspace
+          outputs: dist/github-snake-malveon-dark.svg?palette=github-dark&hide_progress=true&color_snake=#00ffd0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
