@@ -81,7 +81,10 @@ Building Malveon.
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
-<h4>Tools</h4>
+<p><strong>Package Managers</strong><br>
+<img src="https://cdn.simpleicons.org/pnpm" width="40"/>
+<img src="https://cdn.simpleicons.org/npm" width="40"/>
+</p>
 
 <p><strong>Editor</strong><br>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="40"/>
@@ -90,7 +93,7 @@ Building Malveon.
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
-<h4 align="center">LadsonDavid</h4>
+<h4 align="center">This one</h4>
 
 <div align="center">
   <picture>
@@ -98,7 +101,7 @@ Building Malveon.
     <img src="https://raw.githubusercontent.com/LadsonDavid/LadsonDavid/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
-<h4 align="center">Malveon-Workspace</h4>
+<h4 align="center">Product's</h4>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LadsonDavid/LadsonDavid/output/github-snake-malveon-dark.svg"/>
