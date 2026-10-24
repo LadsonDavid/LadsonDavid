@@ -36,8 +36,6 @@ AI agents say "it works," but:
 
 <h3>Tech Stack</h3>
 
-<h4>Stack</h4>
-
 <p><strong>Frontend</strong><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"/><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40"/></picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
