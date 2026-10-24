@@ -45,6 +45,7 @@ AI agents say "it works," but:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/radixui/ffffff"/><img src="https://cdn.simpleicons.org/radixui/000000" width="40"/></picture>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
 </p>
 
 <p><strong>Backend</strong><br>
@@ -58,6 +59,10 @@ AI agents say "it works," but:
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/ffffff"/><img src="https://cdn.simpleicons.org/socketdotio/000000" width="40"/></picture>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/ffffff"/><img src="https://cdn.simpleicons.org/flask/000000" width="40"/></picture>
+<img src="https://cdn.simpleicons.org/trpc" width="40"/>
 </p>
 
 <p><strong>Database</strong><br>
@@ -67,11 +72,16 @@ AI agents say "it works," but:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="40"/>
 </p>
 
 <p><strong>Cloud</strong><br>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/vercel-icon-dark.svg"/>
   <img src="assets/vercel-icon.svg" width="40"/>
@@ -81,9 +91,34 @@ AI agents say "it works," but:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 </p>
 
+<p><strong>Build &amp; Testing</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40"/>
+</p>
+
+<p><strong>Services</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/paddle/ffffff"/><img src="https://cdn.simpleicons.org/paddle/000000" width="40"/></picture>
+</p>
+
 <p><strong>AI &amp; ML</strong><br>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff"/><img src="https://cdn.simpleicons.org/langchain/000000" width="40"/></picture>
+<img src="https://cdn.simpleicons.org/huggingface" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/ffffff"/><img src="https://cdn.simpleicons.org/ollama/000000" width="40"/></picture>
+</p>
+
+<p><strong>Mobile</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/ffffff"/><img src="https://cdn.simpleicons.org/expo/000000" width="40"/></picture>
+</p>
+
+<p><strong>DevOps</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 <p><strong>Package Managers</strong><br>
@@ -93,6 +128,7 @@ AI agents say "it works," but:
 
 <p><strong>Editor</strong><br>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
