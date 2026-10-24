@@ -130,6 +130,7 @@ AI agents say "it works," but:
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"/><img src="https://cdn.simpleicons.org/cursor/000000" width="40"/></picture>
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
