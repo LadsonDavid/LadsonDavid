@@ -10,14 +10,14 @@
 
 I'm the Co-Founder & CEO at **[Malveon](https://www.malveon.com)**. We build verification systems for developers who are tired of babysitting AI coding agents.
 
-### 🚫 The Problem We Solve
+### The Problem We Solve
 AI agents say "it works," but:
 - You click the button and nothing happens.
 - Frontend and backend payload types mismatch.
 - Fixes in one file quietly break working code in another.
 - Half-finished `// TODO` blocks and phantom features get left behind.
 
-### 🚀 What We're Building
+### What We're Building
 - 🛠 **[Malveon](https://www.malveon.com)**: Automated plan vs. built verification across any full-stack codebase. We check whether AI agents (Claude Code, Cursor, Codex, Antigravity, Debin) actually finished the job before you merge.
 
 <a href="https://www.linkedin.com/in/Ladson-antonyraj/" target="_blank">
