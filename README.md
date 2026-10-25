@@ -60,7 +60,6 @@ AI agents say "it works," but:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/ffffff"/><img src="https://cdn.simpleicons.org/flask/000000" width="40"/></picture>
-<img src="https://cdn.simpleicons.org/trpc" width="40"/>
 </p>
 
 <p><strong>Database</strong><br>
@@ -76,7 +75,6 @@ AI agents say "it works," but:
 
 <p><strong>Cloud</strong><br>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40"/>
 <picture>
